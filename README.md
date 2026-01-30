@@ -14,7 +14,7 @@
 <!-- Introduction-->
 ## Welcome to my profile
 
-I am Marcel Steinle, dual student of Computer Science (B.Sc.) at SEW Eurodrive Germany. I started studying in the beginning of 2024 and finish my bachelor's degree by mid 2027.
+I am Marcel Steinle, dual student of Computer Science (B.Sc.) at SEW EURODRIVE Germany. I started studying in the beginning of 2024 and finish my bachelor's degree by mid 2027.
 
 I like to ride my bicycle, meditate, build and troubleshoot computers in my freetime.
 
