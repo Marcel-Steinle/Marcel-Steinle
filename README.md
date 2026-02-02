@@ -2,7 +2,7 @@
 # README.md
 
 <!-- Header -->
-[![Header](assets/sew_header.png)](https://www.sew-eurodrive.de/)
+[![Header](assets/sew_header.png)](https://www.seweurodrive.com/home.html)
 
 <!-- Some Badges -->
 <p align="center">
@@ -98,7 +98,8 @@ I like to ride my bicycle, meditate, build and troubleshoot computers in my free
 <!-- Trivia -->
 ### About SEW‑EURODRIVE
 
-*SEW‑EURODRIVE is a global, family‑owned leader in drive and automation technology, headquartered in Bruchsal, Germany. Founded in 1931, the company develops and produces gearmotors, gear units, motors, industrial gear solutions, and complete automation systems used across countless industries. With more than 22,000 employees worldwide, 17 production plants, and over 90 Drive Technology Centers in 56 countries, SEW‑EURODRIVE supports customers with customized solutions, lifecycle services, and a highly modular product portfolio. ([Source](https://www.sew-eurodrive.de/))*
+*SEW‑EURODRIVE is a global, family‑owned leader in drive and automation technology, headquartered in Bruchsal, Germany. Founded in 1931, the company develops and produces gearmotors, gear units, motors, industrial gear solutions, and complete automation systems used across countless industries. With more than 22,700 employees worldwide, 18 production plants, and 92 Drive Technology Centers in 56 countries, SEW‑EURODRIVE supports customers with customized solutions, lifecycle services, and a highly modular product portfolio. ([Source](https://www.sew-eurodrive.de/unternehmen/ueber-uns/ueber-uns.html))*
+<!-- Yes, I am using the german link, because someone forgot to update the english version with data of 2024/2025... (:p) -->
 
 <!-- Footer -->
-[![Footer](assets/sew_footer.png)](https://www.sew-eurodrive.de/)
+[![Footer](assets/sew_footer.png)](https://www.seweurodrive.com/home.html)
